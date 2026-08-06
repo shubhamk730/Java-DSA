@@ -2,6 +2,7 @@ package sorting;
 
 
 // divide and merge
+// TC - O(Nlog(N)), SC- O(N)
 public class MergeSort {
 
     private static void merge(int[] arr, int low, int mid, int high) {
