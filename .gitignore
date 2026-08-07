@@ -1,2 +1,6 @@
 *.class
 .vscode
+
+.idea
+dsa.iml
+out/
