@@ -51,6 +51,11 @@ class MASolution {
 
         }
 
+        // Copy remaining elements
+        for (int i = 0; i < m; i++) {
+            nums1[n + i] = nums2[i];
+        }
+
     }
 }
 
